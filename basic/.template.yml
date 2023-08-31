@@ -1,0 +1,6 @@
+name: Spring boot multitenancy schema
+rating: 5
+imageUrl: https://github.com/msa-ez/topping-spring-security/assets/123912988/0a910647-98f8-4e7d-b0c8-7a40e223dead
+templateName: spring-boot-multitenancy-schema
+description: By using a separate database schema for each tenant, it supports multi-tenancy.
+group: Multitenancy
